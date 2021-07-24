@@ -8,3 +8,5 @@
 - 🔭 I’m currently working on AGF Equipamentos
 - 🌱 I’m currently learning Stripe, GraphQL, NextJS
 - 🤔 I’m looking for help with agile workflows!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPedroti)](https://github.com/anuraghazra/github-readme-stats)
