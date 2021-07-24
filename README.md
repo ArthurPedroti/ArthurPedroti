@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning Stripe, GraphQL, NextJS
 - 🤔 I’m looking for help with agile workflows!
 
-![Arthur Pedroti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPedroti&show_icons=true&theme=radical)
+![Arthur Pedroti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPedroti&show_icons=true&theme=tokyonight)
