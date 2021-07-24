@@ -5,6 +5,6 @@
 3. Caso se depare com um obstáculo, peça ajuda. 
 4. Monitore o progresso com frequência e faça o acompanhamento."
 
-🔭 I’m currently working on AGF Equipamentos
-🌱 I’m currently learning Stripe, GraphQL, NextJS
-🤔 I’m looking for help with agile workflows!
+- 🔭 I’m currently working on AGF Equipamentos
+- 🌱 I’m currently learning Stripe, GraphQL, NextJS
+- 🤔 I’m looking for help with agile workflows!
