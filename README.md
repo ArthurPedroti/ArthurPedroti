@@ -15,3 +15,4 @@ Some open source project that I already contributed:
 
 
 ![Arthur Pedroti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPedroti&show_icons=true&theme=tokyonight)
+![Arthur Pedroti's Codewars stats](https://www.codewars.com/users/ArthurPedroti/badges/large)
