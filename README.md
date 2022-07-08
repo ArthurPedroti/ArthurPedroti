@@ -12,6 +12,7 @@ Some open source project that I already contributed:
 
 - mui/mui-x
 - nextauthjs/next-auth
+- DefinitelyTyped/DefinitelyTyped
 
 
 ![Arthur Pedroti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPedroti&show_icons=true&theme=tokyonight)
