@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on AGF Equipamentos
 - 🌱 I’m currently learning Stripe, GraphQL, NextJS
 
-Some open source project that I already contributed:
+Some open source projects I've already contributed:
 
 - mui/mui-x
 - nextauthjs/next-auth
