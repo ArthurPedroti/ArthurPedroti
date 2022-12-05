@@ -17,6 +17,7 @@ Some open source projects I've already contributed:
 - @koa-js/koa
 - @vercel/next.js
 - @axios/axios
+- @TanStack/query
 
 
 ![Arthur Pedroti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPedroti&show_icons=true&theme=tokyonight)
