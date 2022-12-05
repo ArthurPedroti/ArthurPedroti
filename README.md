@@ -10,14 +10,14 @@
 
 Some open source projects I've already contributed:
 
-- @mui/mui-x
-- @nextauthjs/next-auth
-- @DefinitelyTyped/DefinitelyTyped
-- @chakra-ui/chakra-ui
-- @koa-js/koa
-- @vercel/next.js
-- @axios/axios
-- @TanStack/query
+- mui/mui-x
+- nextauthjs/next-auth
+- DefinitelyTyped/DefinitelyTyped
+- chakra-ui/chakra-ui
+- koa-js/koa
+- vercel/next.js
+- axios/axios
+- TanStack/query
 
 
 ![Arthur Pedroti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPedroti&show_icons=true&theme=tokyonight)
