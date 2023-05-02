@@ -11,6 +11,7 @@
 Some open source projects I've already contributed:
 
 - mui/mui-x
+- Material UI
 - nextauthjs/next-auth
 - DefinitelyTyped/DefinitelyTyped
 - chakra-ui/chakra-ui
